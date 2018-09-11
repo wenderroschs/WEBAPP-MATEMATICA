@@ -1,2 +1,8 @@
 # WEBAPP-MATEMATICA
-Repositório para o projeto de matemática.
+Repositório para o projeto de DBO.
+
+Nosso projeto é um webapp sobre números complexos, contendo:
+- Calculadora de números complexos, que fará as operações de soma, subtração, multiplicação e divisão de dois números complexos. Ainda calculará o conjugado dos números complexos.
+- Listas de exercícios, no qual o app gera problemas pré determinados com valores aleatórios, calcula a resposta e determina o gabarito.
+- Espaço com vídeoaulas do Youtube.
+- Área de login e perfil, contendo ranking e premiações.
